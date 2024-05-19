@@ -1,6 +1,6 @@
 # CC CHECKER & SCRAPPER USERBOT
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/JinProgrammer02/ccchk-ub?tab=readme-ov-file)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/JinProgrammer02/ccchk-ub?tab=readme-ov-file)
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
